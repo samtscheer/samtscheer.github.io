@@ -647,7 +647,7 @@ header .fa {
     display: block;
     width: 100%;
     object-fit: cover;
-    height: 400px;
+    height: 500px;
 }
 
 .section-5 .box:hover .overlay {
@@ -2492,7 +2492,7 @@ textarea.form-control {
         padding-bottom: 20px;
     }
     .section-5 .img-fluid {
-        height: 200px;
+        height: 500px;
     }
     .section-6 input {
         width: 100%;
@@ -2702,7 +2702,7 @@ textarea.form-control {
         line-height: 25px;
     }
     .section-5 .img-fluid {
-        height: 250px;
+        height: 500px;
     }
     .portfolio h3 {
         font-size: 21px;
